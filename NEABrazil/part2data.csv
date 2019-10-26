@@ -1,42 +1,42 @@
-﻿Country Name,Country Code,Series Name,Series Code,2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018]
-Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.503955740242247,-3.54576339269425,-3.30545431266852,1.06386125924512,1.11757918028799
-Brazil,BRA,GDP (current US$),NY.GDP.MKTP.CD,2455994050148.75,1802214373741.32,1796275437087.99,2053594973992.61,1868626087908.48
-Brazil,BRA,GNI (current US$),NY.GNP.MKTP.CD,2407378665533.36,1763307583636.42,1758811120664.95,2015527354765.93,1840198970934.37
-Brazil,BRA,GNI per capita (constant 2010 US$),NY.GNP.PCAP.KD,11713.0989966148,11183.3090220956,10732.8822071172,10785.8454294579,10857.434111112
-Brazil,BRA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-0.352479217688355,-4.35148398862317,-4.0987022546979,0.251410418805705,0.328069801440051
-Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,12112.5903019529,8814.00098681261,8712.88704442864,9880.94654326324,8920.76210462979
-Brazil,BRA,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,7.84674863327621,7.5661563986378,8.10000829597706,3.47281059925386,3.02544094379658
-Brazil,BRA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,1.24810004234314,5.07079982757568,6.32910013198853,7.01579999923706,6.85930013656616
-Brazil,BRA,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,6.56080007553101,8.72420024871826,13.557900428772,15.3444004058838,14.6498003005981
-Brazil,BRA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,4.00710010528564,7.36019992828369,13.4563999176025,14.5790004730225,14.1056995391846
-Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.67000007629395,8.4370002746582,11.6090002059937,12.8269996643066,12.543999671936
-Brazil,BRA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..,..,11.5999002456665,12.8224000930786,12.3338003158569
-World,WLD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.83994006432333,2.8529393604575,2.56540895781401,3.16540231041313,3.03877529212566
-World,WLD,GDP (current US$),NY.GDP.MKTP.CD,79296107902414.6,75003074210656.5,76102831192800.1,80891341462319.1,85804390603622
-World,WLD,GNI (current US$),NY.GNP.MKTP.CD,79584856285100.5,75230895038336.9,76207049667172,81028716475503.4,85782348073056.2
-World,WLD,GNI per capita (constant 2010 US$),NY.GNP.PCAP.KD,10151.2768383067,10314.8727394708,10451.5120908041,10672.1457313181,..
-World,WLD,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.63953252615742,1.66391263108147,1.3842033026543,1.99891054482104,1.90794569558348
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,10928.8711624083,10217.6560130209,10247.9362255605,10769.6771083675,11298.3037067153
-World,WLD,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,1.9840504083146,1.99138380254941,1.84318488695523,3.18531753663285,2.90144215595774
-World,WLD,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,..,..,..
-World,WLD,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,..,..,..,..,..
-World,WLD,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,..,..,..,..,..
-World,WLD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.19053563717694,5.21666887954495,5.21524392982304,5.04858059712278,4.95100166988832
-World,WLD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..,..,..,..,..
-United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.4519730360895,2.88091046576689,1.56721516988685,2.21701033035224,2.8569878160516
-United States,USA,GDP (current US$),NY.GDP.MKTP.CD,17521746534000,18219297584000,18707188235000,19485393853000,20494100000000
-United States,USA,GNI (current US$),NY.GNP.MKTP.CD,18062432000000,18700478000000,19049435000000,19872232000000,20738399000000
-United States,USA,GNI per capita (constant 2010 US$),NY.GNP.PCAP.KD,51513.2908887082,52540.9842037517,52933.6774818965,53815.8115434973,..
-United States,USA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.7026342478712,2.12512281587478,0.835127873259836,1.56444443084816,2.22182890954011
-United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,55032.9579979166,56803.4724334919,57904.2019610641,59927.9298339535,62641.0145699281
-United States,USA,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,1.89189129292598,1.06934165943751,1.09352542361736,1.90077753783197,2.25530789041738
-United States,USA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.69059991836548,3.03229999542236,2.90759992599487,2.68569993972778,2.45000004768372
-United States,USA,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,8.83930015563965,7.75990009307861,7.49170017242432,6.55060005187988,5.87220001220703
-United States,USA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,8.09140014648438,7.08680009841919,6.47130012512207,5.76550006866455,5.17150020599365
-United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.16800022125244,5.28000020980835,4.86899995803833,4.35500001907349,3.93300008773804
-United States,USA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.16750001907349,5.28000020980835,4.86920022964478,4.35519981384277,3.89560008049011
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-Data from database: World Development Indicators,,,,,,,,
-Last Updated: 10/16/2019,,,,,,,,
+﻿Country Name,Series Name,2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018]
+Brazil,GDP growth (annual %),0.50395574,-3.545763393,-3.305454313,1.063861259,1.11757918
+Brazil,GDP (current US$),2.45599E+12,1.80221E+12,1.79628E+12,2.05359E+12,1.86863E+12
+Brazil,GNI (current US$),2.40738E+12,1.76331E+12,1.75881E+12,2.01553E+12,1.8402E+12
+Brazil,GNI per capita (constant 2010 US$),11713.099,11183.30902,10732.88221,10785.84543,10857.43411
+Brazil,GDP per capita growth (annual %),-0.352479218,-4.351483989,-4.098702255,0.251410419,0.328069801
+Brazil,GDP per capita (current US$),12112.5903,8814.000987,8712.887044,9880.946543,8920.762105
+Brazil,"Inflation, GDP deflator (annual %)",7.846748633,7.566156399,8.100008296,3.472810599,3.025440944
+Brazil,Unemployment with advanced education (% of total labor force with advanced education),1.248100042,5.070799828,6.329100132,7.015799999,6.859300137
+Brazil,Unemployment with basic education (% of total labor force with basic education),6.560800076,8.724200249,13.55790043,15.34440041,14.6498003
+Brazil,Unemployment with intermediate education (% of total labor force with intermediate education),4.007100105,7.360199928,13.45639992,14.57900047,14.10569954
+Brazil,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6.670000076,8.437000275,11.60900021,12.82699966,12.54399967
+Brazil,"Unemployment, total (% of total labor force) (national estimate)",..,..,11.59990025,12.82240009,12.33380032
+World,GDP growth (annual %),2.839940064,2.85293936,2.565408958,3.16540231,3.038775292
+World,GDP (current US$),7.92961E+13,7.50031E+13,7.61028E+13,8.08913E+13,8.58044E+13
+World,GNI (current US$),7.95849E+13,7.52309E+13,7.6207E+13,8.10287E+13,8.57823E+13
+World,GNI per capita (constant 2010 US$),10151.27684,10314.87274,10451.51209,10672.14573,..
+World,GDP per capita growth (annual %),1.639532526,1.663912631,1.384203303,1.998910545,1.907945696
+World,GDP per capita (current US$),10928.87116,10217.65601,10247.93623,10769.67711,11298.30371
+World,"Inflation, GDP deflator (annual %)",1.984050408,1.991383803,1.843184887,3.185317537,2.901442156
+World,Unemployment with advanced education (% of total labor force with advanced education),..,..,..,..,..
+World,Unemployment with basic education (% of total labor force with basic education),..,..,..,..,..
+World,Unemployment with intermediate education (% of total labor force with intermediate education),..,..,..,..,..
+World,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5.190535637,5.21666888,5.21524393,5.048580597,4.95100167
+World,"Unemployment, total (% of total labor force) (national estimate)",..,..,..,..,..
+United States,GDP growth (annual %),2.451973036,2.880910466,1.56721517,2.21701033,2.856987816
+United States,GDP (current US$),1.75217E+13,1.82193E+13,1.87072E+13,1.94854E+13,2.04941E+13
+United States,GNI (current US$),1.80624E+13,1.87005E+13,1.90494E+13,1.98722E+13,2.07384E+13
+United States,GNI per capita (constant 2010 US$),51513.29089,52540.9842,52933.67748,53815.81154,..
+United States,GDP per capita growth (annual %),1.702634248,2.125122816,0.835127873,1.564444431,2.22182891
+United States,GDP per capita (current US$),55032.958,56803.47243,57904.20196,59927.92983,62641.01457
+United States,"Inflation, GDP deflator (annual %)",1.891891293,1.069341659,1.093525424,1.900777538,2.25530789
+United States,Unemployment with advanced education (% of total labor force with advanced education),3.690599918,3.032299995,2.907599926,2.68569994,2.450000048
+United States,Unemployment with basic education (% of total labor force with basic education),8.839300156,7.759900093,7.491700172,6.550600052,5.872200012
+United States,Unemployment with intermediate education (% of total labor force with intermediate education),8.091400146,7.086800098,6.471300125,5.765500069,5.171500206
+United States,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6.168000221,5.28000021,4.868999958,4.355000019,3.933000088
+United States,"Unemployment, total (% of total labor force) (national estimate)",6.167500019,5.28000021,4.86920023,4.355199814,3.89560008
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: World Development Indicators,,,,,,
+Last Updated: 10/16/2019,,,,,,
