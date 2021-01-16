@@ -1,4 +1,4 @@
-# PersonalProjects
+# PersonalProjects and Graduate School
 Projects created to expand learning 
 
 Data Set Options
